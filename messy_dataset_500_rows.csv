@@ -1,0 +1,541 @@
+Customer_ID,Name,Gender,Age,Country,Purchase_Amount,Purchase_Date,Email
+C001,,female,40,Nigeria,5000,3/15/2023,john.adewale@hotmail.com
+C002, ,F,20,Pakistan,9000,3/16/2023,unknown@gmail
+C003,James Wilson,F,,Pakistan,,3/17/2023,james.wilson@gmail
+C004,John Adewale,F,40,U.S.A,12000,3/18/2023,john.adewale@gmail
+C005,Ahmed Bello,Female,25,Canada,9000,3/19/2023,ahmed.bello@gmail.com
+C006, Ahmed Bello ,male,20,Nigeria,5000,3/20/2023,ahmed.bello@yahoo.com
+C007, ,male,,UK,9000,3/21/2023,unknown@hotmail.com
+C008, Peter Okeke ,male,25,UK,9000,3/22/2023,peter.okeke@gmail.com
+C009,Emily Stone,Male,40,UK,9000,3/23/2023,emily.stone@gmail
+C010, Chris Evans ,F,40,U.S.A,9000,3/24/2023,chris.evans@gmail.com
+C011,Michael Scott,female,40,Pakistan,5000,3/25/2023,michael.scott@gmail
+C012, John Adewale ,Female,thirty,UK,5000,3/26/2023,john.adewale@gmail.com
+C013,Sara Ibrahim,male,35,Canada,12000,3/27/2023,sara.ibrahim@yahoo.com
+C014, Mary Johnson ,Male,,UK,12000,3/28/2023,mary.johnson@gmail.com
+C015, Grace Musa ,Male,30,USA,7000,3/29/2023,grace.musa@hotmail.com
+C016,Sara Ibrahim,Male,30,India,12000,3/30/2023,sara.ibrahim@gmail.com
+C017,Linda Brown,male,25,UK,,3/31/2023,linda.brown@gmail
+C018, James Wilson ,female,thirty,Nigeria,9000,4/1/2023,james.wilson@hotmail.com
+C019,Linda Brown,Male,40,Nigeria,7000,4/2/2023,linda.brown@gmail
+C020, Sara Ibrahim ,female,20,Pakistan,9000,4/3/2023,sara.ibrahim@yahoo.com
+C021,Peter Okeke,Female,thirty,Pakistan,5000,4/4/2023,peter.okeke@gmail.com
+C022,Ahmed Bello,female,30,UK,9000,4/5/2023,ahmed.bello@yahoo.com
+C023,Mary Johnson,F,20,UK,12000,4/6/2023,mary.johnson@gmail
+C024,Chris Evans,Female,thirty,India,7000,4/7/2023,chris.evans@hotmail.com
+C025,John Adewale,M,,Pakistan,5000,4/8/2023,john.adewale@yahoo.com
+C026,Linda Brown,M,30,Pakistan,12000,4/9/2023,linda.brown@gmail
+C027, Sara Ibrahim ,F,35,Nigeria,9000,4/10/2023,sara.ibrahim@hotmail.com
+C028, Daniel Craig ,female,35,Nigeria,9000,4/11/2023,daniel.craig@hotmail.com
+C029,Ahmed Bello,M,30,India,5000,4/12/2023,ahmed.bello@hotmail.com
+C030,Grace Musa,female,20,India,12000,4/13/2023,grace.musa@hotmail.com
+C031,Daniel Craig,Male,40,Nigeria,,4/14/2023,daniel.craig@yahoo.com
+C032, Sara Ibrahim ,male,30,India,,4/15/2023,sara.ibrahim@hotmail.com
+C033,Mary Johnson,Male,40,Pakistan,5000,4/16/2023,mary.johnson@yahoo.com
+C034,Peter Okeke,Male,40,India,12000,4/17/2023,peter.okeke@yahoo.com
+C035, Michael Scott ,F,35,Pakistan,12000,4/18/2023,michael.scott@hotmail.com
+C036,Joy Williams,F,thirty,India,12000,4/19/2023,joy.williams@gmail
+C037,Mary Johnson,male,30,USA,5000,4/20/2023,mary.johnson@gmail
+C038,Susan Taylor,male,25,Nigeria,5000,4/21/2023,susan.taylor@yahoo.com
+C039,Anna White,Male,20,Pakistan,7000,4/22/2023,anna.white@gmail.com
+C040,Chris Evans,Female,,Pakistan,,4/23/2023,chris.evans@hotmail.com
+C041,Mary Johnson,male,20,Nigeria,5000,4/24/2023,mary.johnson@yahoo.com
+C042,Joy Williams,female,35,Canada,,4/25/2023,joy.williams@gmail.com
+C043,Joy Williams,M,,Nigeria,7000,4/26/2023,joy.williams@yahoo.com
+C044,Anna White,female,35,UK,,4/27/2023,anna.white@hotmail.com
+C045,Susan Taylor,female,35,USA,9000,4/28/2023,susan.taylor@yahoo.com
+C046,Peter Okeke,F,20,Pakistan,5000,4/29/2023, 
+C047,Sara Ibrahim,male,thirty,Pakistan,5000,4/30/2023,sara.ibrahim@hotmail.com
+C048, ,male,,UK,5000,5/1/2023,unknown@yahoo.com
+C049,Sara Ibrahim,Male,,India,,5/2/2023,sara.ibrahim@hotmail.com
+C050, Daniel Craig ,Female,25,Nigeria,12000,5/3/2023,daniel.craig@hotmail.com
+C051,John Adewale,Female,thirty,UK,,5/4/2023,john.adewale@hotmail.com
+C052, Ahmed Bello ,Female,30,Canada,,5/5/2023, 
+C053,Daniel Craig,Female,30,India,12000,5/6/2023,daniel.craig@gmail
+C054, Linda Brown ,F,30,USA,,5/7/2023,linda.brown@gmail
+C055,Joy Williams,M,30,Pakistan,5000,5/8/2023,joy.williams@gmail
+C056,Michael Scott,female,,UK,9000,5/9/2023,michael.scott@hotmail.com
+C057, Sara Ibrahim ,Female,35,Nigeria,5000,5/10/2023, 
+C058,Joy Williams,F,40,USA,12000,5/11/2023,joy.williams@gmail.com
+C059,Chris Evans,female,20,USA,5000,5/12/2023,chris.evans@yahoo.com
+C060, David Smith ,F,,Nigeria,12000,5/13/2023, 
+C061,Ahmed Bello,M,25,USA,12000,5/14/2023,ahmed.bello@yahoo.com
+C062,Susan Taylor,M,30,Pakistan,9000,5/15/2023,susan.taylor@gmail.com
+C063, Ali Khan ,Male,25,Pakistan,9000,5/16/2023,ali.khan@gmail.com
+C064,Anna White,male,20,UK,,5/17/2023,anna.white@gmail.com
+C065,Joy Williams,Female,40,UK,12000,5/18/2023,joy.williams@yahoo.com
+C066, ,M,40,India,12000,5/19/2023,unknown@gmail
+C067, Sara Ibrahim ,F,25,Pakistan,7000,5/20/2023, 
+C068, Peter Okeke ,male,,Canada,12000,5/21/2023,peter.okeke@gmail
+C069,Grace Musa,M,30,USA,5000,5/22/2023,grace.musa@yahoo.com
+C070,Peter Okeke,Female,,UK,9000,5/23/2023,peter.okeke@hotmail.com
+C071,Linda Brown,F,30,Pakistan,7000,5/24/2023,linda.brown@gmail.com
+C072, Susan Taylor ,F,30,Canada,,5/25/2023,susan.taylor@yahoo.com
+C073,Chris Evans,Male,35,UK,,5/26/2023,chris.evans@hotmail.com
+C074,Daniel Craig,male,25,Nigeria,9000,5/27/2023,daniel.craig@gmail
+C075,Emily Stone,M,20,UK,9000,5/28/2023,emily.stone@yahoo.com
+C076,Chris Evans,Male,thirty,Pakistan,5000,5/29/2023,chris.evans@yahoo.com
+C077,Ali Khan,F,,Pakistan,7000,5/30/2023,ali.khan@hotmail.com
+C078, John Adewale ,male,20,Pakistan,,5/31/2023,john.adewale@hotmail.com
+C079, Emily Stone ,female,thirty,UK,5000,6/1/2023,emily.stone@hotmail.com
+C080,Peter Okeke,F,40,Pakistan,5000,6/2/2023,peter.okeke@gmail.com
+C081,Emily Stone,female,thirty,USA,,6/3/2023,emily.stone@hotmail.com
+C082,John Adewale,male,25,India,7000,6/4/2023,john.adewale@gmail.com
+C083,Joy Williams,Female,,Canada,7000,6/5/2023,joy.williams@yahoo.com
+C084, ,Female,thirty,USA,5000,6/6/2023,unknown@hotmail.com
+C085,David Smith,Female,20,India,9000,6/7/2023,david.smith@hotmail.com
+C086,John Adewale,Female,35,Pakistan,,6/8/2023,john.adewale@gmail.com
+C087,Susan Taylor,F,30,UK,9000,6/9/2023,susan.taylor@yahoo.com
+C088,David Smith,Male,30,Pakistan,5000,6/10/2023,david.smith@gmail
+C089,Ahmed Bello,female,thirty,India,,6/11/2023,ahmed.bello@gmail
+C090,Peter Okeke,Male,40,India,12000,6/12/2023,peter.okeke@gmail.com
+C091, Mary Johnson ,Male,,India,9000,6/13/2023,mary.johnson@gmail.com
+C092,Peter Okeke,female,35,Nigeria,9000,6/14/2023,peter.okeke@gmail.com
+C093,Daniel Craig,F,30,Nigeria,7000,6/15/2023,daniel.craig@gmail
+C094,Chris Evans,Male,35,Canada,,6/16/2023,chris.evans@gmail.com
+C095,Linda Brown,female,thirty,Nigeria,9000,6/17/2023,linda.brown@gmail.com
+C096,Susan Taylor,female,35,India,9000,6/18/2023,susan.taylor@yahoo.com
+C097,David Smith,Male,thirty,Nigeria,7000,6/19/2023,david.smith@hotmail.com
+C098,Grace Musa,M,25,USA,,6/20/2023,grace.musa@yahoo.com
+C099,Ahmed Bello,Male,thirty,USA,7000,6/21/2023,ahmed.bello@gmail.com
+C100,John Adewale,Female,35,USA,7000,6/22/2023,john.adewale@gmail.com
+C101,Joy Williams,F,thirty,USA,9000,6/23/2023,joy.williams@hotmail.com
+C102,Chris Evans,female,,UK,12000,6/24/2023,chris.evans@gmail.com
+C103, Grace Musa ,M,thirty,USA,,6/25/2023,grace.musa@hotmail.com
+C104,   ,Male,thirty,UK,12000,6/26/2023,unknown@yahoo.com
+C105,Ali Khan,Female,20,UK,5000,6/27/2023,ali.khan@gmail.com
+C106,Chris Evans,male,20,Pakistan,12000,6/28/2023,chris.evans@hotmail.com
+C107,James Wilson,F,40,India,5000,6/29/2023,james.wilson@hotmail.com
+C108,Ahmed Bello,male,25,UK,5000,6/30/2023,ahmed.bello@gmail
+C109, Linda Brown ,male,thirty,UK,9000,7/1/2023,linda.brown@yahoo.com
+C110,Chris Evans,Female,20,Nigeria,12000,7/2/2023,chris.evans@gmail
+C111,Mary Johnson,female,thirty,USA,7000,7/3/2023,mary.johnson@hotmail.com
+C112, ,Male,35,Pakistan,,7/4/2023,unknown@yahoo.com
+C113, Daniel Craig ,female,thirty,India,,7/5/2023,daniel.craig@gmail
+C114, Linda Brown ,female,35,USA,9000,7/6/2023,linda.brown@gmail
+C115,Daniel Craig,F,35,India,,7/7/2023,daniel.craig@gmail
+C116, Michael Scott ,M,40,USA,5000,7/8/2023,michael.scott@hotmail.com
+C117, Grace Musa ,female,,USA,5000,7/9/2023,grace.musa@hotmail.com
+C118,Linda Brown,F,thirty,Nigeria,7000,7/10/2023,linda.brown@hotmail.com
+C119, ,female,35,Pakistan,,7/11/2023,unknown@yahoo.com
+C120,Joy Williams,M,25,Nigeria,5000,7/12/2023,joy.williams@hotmail.com
+C121,Peter Okeke,male,20,Canada,12000,7/13/2023,peter.okeke@gmail
+C122,Michael Scott,Female,30,India,12000,7/14/2023,michael.scott@gmail.com
+C123,Daniel Craig,M,,Canada,7000,7/15/2023,daniel.craig@hotmail.com
+C124, Chris Evans ,Female,25,Canada,12000,7/16/2023,chris.evans@yahoo.com
+C125,David Smith,male,30,UK,9000,7/17/2023,david.smith@hotmail.com
+C126,Chris Evans,F,30,UK,,7/18/2023,chris.evans@yahoo.com
+C127,Mary Johnson,female,30,India,,7/19/2023,mary.johnson@gmail.com
+C128,Ali Khan,male,35,India,7000,7/20/2023,ali.khan@gmail.com
+C129,Mary Johnson,M,20,Nigeria,5000,7/21/2023,mary.johnson@gmail.com
+C130, Sara Ibrahim ,M,35,Nigeria,9000,7/22/2023,sara.ibrahim@gmail.com
+C131, Sara Ibrahim ,female,20,USA,9000,7/23/2023,sara.ibrahim@gmail.com
+C132,Ahmed Bello,female,,UK,12000,7/24/2023,ahmed.bello@hotmail.com
+C133,Susan Taylor,Male,thirty,Pakistan,7000,7/25/2023,susan.taylor@gmail.com
+C134, Susan Taylor ,F,thirty,Nigeria,12000,7/26/2023, 
+C135, Chris Evans ,M,,India,9000,7/27/2023,chris.evans@gmail.com
+C136,Ahmed Bello,female,thirty,USA,7000,7/28/2023,ahmed.bello@hotmail.com
+C137,David Smith,female,30,Canada,12000,7/29/2023,david.smith@hotmail.com
+C138, James Wilson ,M,20,USA,5000,7/30/2023,james.wilson@yahoo.com
+C139, Grace Musa ,male,35,Pakistan,,7/31/2023,grace.musa@hotmail.com
+C140,Susan Taylor,male,40,USA,,8/1/2023,susan.taylor@yahoo.com
+C141,Anna White,male,,UK,12000,8/2/2023,anna.white@gmail
+C142, Sara Ibrahim ,M,35,Nigeria,12000,8/3/2023,sara.ibrahim@gmail.com
+C143,John Adewale,M,thirty,UK,,8/4/2023,john.adewale@gmail
+C144, Mary Johnson ,F,thirty,Canada,5000,8/5/2023,mary.johnson@gmail.com
+C145,Ahmed Bello,male,20,Nigeria,9000,8/6/2023,ahmed.bello@yahoo.com
+C146,   ,Female,,India,5000,8/7/2023,unknown@gmail
+C147,Susan Taylor,female,,Canada,12000,8/8/2023,susan.taylor@hotmail.com
+C148,Ali Khan,M,35,India,12000,8/9/2023,ali.khan@hotmail.com
+C149, John Adewale ,F,,USA,,8/10/2023,john.adewale@yahoo.com
+C150,Susan Taylor,F,,USA,,8/11/2023,susan.taylor@gmail.com
+C151, Linda Brown ,male,35,UK,5000,8/12/2023,linda.brown@gmail
+C152, Linda Brown ,M,25,Nigeria,,8/13/2023,linda.brown@gmail.com
+C153,Sara Ibrahim,male,25,UK,9000,8/14/2023,sara.ibrahim@yahoo.com
+C154,Ali Khan,M,35,Nigeria,7000,8/15/2023,ali.khan@hotmail.com
+C155,Linda Brown,Female,35,Nigeria,,8/16/2023, 
+C156,Ahmed Bello,Female,thirty,Canada,9000,8/17/2023,ahmed.bello@hotmail.com
+C157, Sara Ibrahim ,female,35,Canada,12000,8/18/2023,sara.ibrahim@gmail.com
+C158,Grace Musa,F,40,USA,12000,8/19/2023,grace.musa@gmail
+C159,John Adewale,female,35,Canada,5000,8/20/2023,john.adewale@gmail.com
+C160, Michael Scott ,Female,,India,9000,8/21/2023,michael.scott@yahoo.com
+C161,Susan Taylor,F,,Pakistan,,8/22/2023,susan.taylor@hotmail.com
+C162,Joy Williams,M,,UK,5000,8/23/2023,joy.williams@gmail
+C163, James Wilson ,Male,20,UK,7000,8/24/2023, 
+C164, Sara Ibrahim ,female,25,UK,12000,8/25/2023,sara.ibrahim@hotmail.com
+C165, Susan Taylor ,Female,,USA,,8/26/2023,susan.taylor@yahoo.com
+C166,Linda Brown,male,40,Canada,9000,8/27/2023,linda.brown@gmail
+C167, Chris Evans ,F,25,India,9000,8/28/2023,chris.evans@gmail.com
+C168, John Adewale ,male,30,India,9000,8/29/2023,john.adewale@gmail
+C169,Susan Taylor,female,25,India,7000,8/30/2023,susan.taylor@gmail.com
+C170, John Adewale ,female,20,Pakistan,,8/31/2023,john.adewale@hotmail.com
+C171, Michael Scott ,Female,,Canada,,9/1/2023, 
+C172,John Adewale,Male,35,Canada,5000,9/2/2023,john.adewale@hotmail.com
+C173,Daniel Craig,Female,30,USA,12000,9/3/2023,daniel.craig@gmail.com
+C174,   ,female,20,Pakistan,5000,9/4/2023,unknown@hotmail.com
+C175, Ahmed Bello ,Male,30,UK,12000,9/5/2023,ahmed.bello@gmail.com
+C176,Sara Ibrahim,F,25,USA,5000,9/6/2023,sara.ibrahim@gmail.com
+C177,Emily Stone,Female,20,USA,7000,9/7/2023,emily.stone@yahoo.com
+C178, Daniel Craig ,Male,30,USA,12000,9/8/2023,daniel.craig@hotmail.com
+C179,Grace Musa,F,30,USA,5000,9/9/2023,grace.musa@hotmail.com
+C180,Ahmed Bello,M,20,USA,9000,9/10/2023,ahmed.bello@gmail
+C181,Joy Williams,F,40,Nigeria,12000,9/11/2023,joy.williams@gmail
+C182,Anna White,F,40,Pakistan,7000,9/12/2023,anna.white@gmail.com
+C183,Michael Scott,female,30,USA,,9/13/2023,michael.scott@hotmail.com
+C184,Ali Khan,male,20,USA,7000,9/14/2023,ali.khan@gmail
+C185,Peter Okeke,Male,30,Nigeria,12000,9/15/2023,peter.okeke@yahoo.com
+C186,Sara Ibrahim,male,,UK,7000,9/16/2023,sara.ibrahim@hotmail.com
+C187,Ahmed Bello,Male,25,Pakistan,12000,9/17/2023, 
+C188,Joy Williams,female,thirty,Canada,,9/18/2023,joy.williams@hotmail.com
+C189, Daniel Craig ,Female,thirty,Canada,,9/19/2023,daniel.craig@gmail.com
+C190, David Smith ,M,40,Canada,12000,9/20/2023,david.smith@yahoo.com
+C191, Anna White ,M,30,Nigeria,,9/21/2023, 
+C192, Michael Scott ,Female,35,USA,9000,9/22/2023,michael.scott@yahoo.com
+C193,Linda Brown,Female,20,Canada,9000,9/23/2023,linda.brown@yahoo.com
+C194,Ahmed Bello,Male,35,UK,12000,9/24/2023,ahmed.bello@gmail.com
+C195,Daniel Craig,female,40,Nigeria,7000,9/25/2023,daniel.craig@hotmail.com
+C196, Daniel Craig ,M,30,USA,12000,9/26/2023, 
+C197,Mary Johnson,male,35,UK,12000,9/27/2023,mary.johnson@hotmail.com
+C198,Susan Taylor,Female,40,UK,,9/28/2023,susan.taylor@hotmail.com
+C199,Joy Williams,Male,20,Nigeria,7000,9/29/2023,joy.williams@hotmail.com
+C200,Linda Brown,M,thirty,UK,12000,9/30/2023, 
+C201,Daniel Craig,M,,India,7000,10/1/2023,daniel.craig@yahoo.com
+C202,John Adewale,M,30,Nigeria,5000,10/2/2023,john.adewale@gmail
+C203,Joy Williams,F,30,Nigeria,9000,10/3/2023,joy.williams@gmail.com
+C204,John Adewale,M,35,Canada,9000,10/4/2023,john.adewale@hotmail.com
+C205,Ahmed Bello,male,35,Pakistan,12000,10/5/2023,ahmed.bello@hotmail.com
+C206, James Wilson ,male,20,USA,,10/6/2023,james.wilson@gmail
+C207,David Smith,female,20,Nigeria,9000,10/7/2023,david.smith@hotmail.com
+C208,James Wilson,female,thirty,Nigeria,7000,10/8/2023,james.wilson@gmail
+C209, ,female,,India,12000,10/9/2023,unknown@gmail
+C210,David Smith,Female,30,India,9000,10/10/2023,david.smith@gmail
+C211,Peter Okeke,female,thirty,Canada,12000,10/11/2023,peter.okeke@hotmail.com
+C212,Linda Brown,M,,Canada,12000,10/12/2023,linda.brown@gmail
+C213,Daniel Craig,Female,,Nigeria,,10/13/2023,daniel.craig@gmail
+C214,Michael Scott,male,thirty,India,,10/14/2023,michael.scott@gmail.com
+C215,John Adewale,male,,Nigeria,,10/15/2023,john.adewale@yahoo.com
+C216,Emily Stone,Female,20,India,7000,10/16/2023,emily.stone@gmail
+C217, Ahmed Bello ,female,25,Pakistan,,10/17/2023,ahmed.bello@gmail.com
+C218,Linda Brown,male,25,India,5000,10/18/2023,linda.brown@gmail.com
+C219, Michael Scott ,M,25,Canada,5000,10/19/2023,michael.scott@gmail
+C220,Michael Scott,male,thirty,USA,,10/20/2023,michael.scott@yahoo.com
+C221,Grace Musa,M,35,Pakistan,12000,10/21/2023,grace.musa@gmail
+C222,Chris Evans,female,thirty,India,,10/22/2023,chris.evans@yahoo.com
+C223,Joy Williams,female,,UK,,10/23/2023, 
+C224,Mary Johnson,male,20,India,9000,10/24/2023,mary.johnson@yahoo.com
+C225,John Adewale,M,,USA,5000,10/25/2023,john.adewale@gmail
+C226,Daniel Craig,male,25,Pakistan,9000,10/26/2023,daniel.craig@gmail
+C227,James Wilson,female,,UK,5000,10/27/2023,james.wilson@gmail
+C228, Mary Johnson ,Male,thirty,Nigeria,9000,10/28/2023,mary.johnson@gmail
+C229,Anna White,male,35,Pakistan,12000,10/29/2023,anna.white@hotmail.com
+C230,Ahmed Bello,Male,,UK,,10/30/2023,ahmed.bello@hotmail.com
+C231, ,Female,40,Canada,5000,10/31/2023,unknown@yahoo.com
+C232,Anna White,M,25,UK,5000,11/1/2023,anna.white@gmail.com
+C233,   ,Male,thirty,Canada,9000,11/2/2023,unknown@hotmail.com
+C234,Linda Brown,male,35,Nigeria,,11/3/2023,linda.brown@hotmail.com
+C235,Sara Ibrahim,F,40,Canada,9000,11/4/2023,sara.ibrahim@gmail
+C236,Anna White,male,thirty,Nigeria,7000,11/5/2023,anna.white@gmail.com
+C237, Daniel Craig ,female,35,Canada,9000,11/6/2023, 
+C238,David Smith,Male,thirty,Nigeria,12000,11/7/2023,david.smith@hotmail.com
+C239,Ahmed Bello,Male,25,UK,9000,11/8/2023,ahmed.bello@gmail.com
+C240,Daniel Craig,female,,USA,9000,11/9/2023,daniel.craig@yahoo.com
+C241,Peter Okeke,Male,thirty,Pakistan,5000,11/10/2023,peter.okeke@yahoo.com
+C242,Ahmed Bello,F,25,India,9000,11/11/2023, 
+C243,Ali Khan,F,40,USA,7000,11/12/2023, 
+C244,David Smith,female,40,UK,9000,11/13/2023,david.smith@yahoo.com
+C245,Joy Williams,Female,20,Nigeria,7000,11/14/2023,joy.williams@yahoo.com
+C246,Ahmed Bello,M,25,Nigeria,9000,11/15/2023,ahmed.bello@gmail.com
+C247,Susan Taylor,Female,30,Pakistan,5000,11/16/2023,susan.taylor@yahoo.com
+C248,Ahmed Bello,F,thirty,UK,9000,11/17/2023,ahmed.bello@gmail.com
+C249,David Smith,Female,thirty,Canada,12000,11/18/2023,david.smith@hotmail.com
+C250,Anna White,male,40,USA,5000,11/19/2023,anna.white@hotmail.com
+C251, Mary Johnson ,Female,30,India,,11/20/2023,mary.johnson@gmail
+C252, Sara Ibrahim ,Female,30,UK,,11/21/2023,sara.ibrahim@yahoo.com
+C253,John Adewale,female,35,Pakistan,7000,11/22/2023,john.adewale@gmail.com
+C254,Ahmed Bello,F,25,Canada,,11/23/2023,ahmed.bello@hotmail.com
+C255,Emily Stone,Female,,UK,12000,11/24/2023,emily.stone@gmail.com
+C256, Ali Khan ,F,40,USA,,11/25/2023,ali.khan@gmail.com
+C257,Michael Scott,male,25,Nigeria,9000,11/26/2023,michael.scott@hotmail.com
+C258,Peter Okeke,Male,20,India,7000,11/27/2023,peter.okeke@gmail.com
+C259,Grace Musa,Female,25,Nigeria,7000,11/28/2023,grace.musa@hotmail.com
+C260, Michael Scott ,M,35,Canada,12000,11/29/2023,michael.scott@hotmail.com
+C261,Mary Johnson,Male,40,Canada,7000,11/30/2023,mary.johnson@yahoo.com
+C262,Mary Johnson,female,40,UK,,12/1/2023,mary.johnson@hotmail.com
+C263, Michael Scott ,male,20,USA,9000,12/2/2023,michael.scott@hotmail.com
+C264,Ahmed Bello,F,40,Canada,9000,12/3/2023,ahmed.bello@gmail.com
+C265, Anna White ,Male,40,USA,5000,12/4/2023,anna.white@gmail
+C266,Peter Okeke,Female,thirty,Nigeria,12000,12/5/2023,peter.okeke@gmail.com
+C267,Anna White,Male,35,USA,,12/6/2023,anna.white@yahoo.com
+C268,John Adewale,female,20,Pakistan,12000,12/7/2023,john.adewale@gmail
+C269, Susan Taylor ,female,20,India,5000,12/8/2023,susan.taylor@gmail.com
+C270,Peter Okeke,M,35,UK,,12/9/2023,peter.okeke@hotmail.com
+C271,Grace Musa,F,,Pakistan,7000,12/10/2023,grace.musa@gmail
+C272,Anna White,male,40,Canada,5000,12/11/2023,anna.white@gmail.com
+C273, ,M,thirty,India,12000,12/12/2023,unknown@gmail.com
+C274,Peter Okeke,female,30,UK,9000,12/13/2023,peter.okeke@hotmail.com
+C275, Ali Khan ,Male,40,Pakistan,9000,12/14/2023,ali.khan@yahoo.com
+C276, Emily Stone ,M,25,Nigeria,7000,12/15/2023,emily.stone@gmail
+C277,David Smith,F,20,UK,,12/16/2023,david.smith@gmail.com
+C278, Chris Evans ,female,20,UK,12000,12/17/2023,chris.evans@gmail.com
+C279,Anna White,Female,thirty,UK,9000,12/18/2023,anna.white@hotmail.com
+C280,James Wilson,Female,30,Canada,5000,12/19/2023,james.wilson@hotmail.com
+C281, John Adewale ,Male,,India,12000,12/20/2023,john.adewale@hotmail.com
+C282,Emily Stone,M,,Canada,12000,12/21/2023,emily.stone@gmail.com
+C283,James Wilson,Female,25,Nigeria,9000,12/22/2023,james.wilson@hotmail.com
+C284, Michael Scott ,male,35,Nigeria,7000,12/23/2023,michael.scott@yahoo.com
+C285,Mary Johnson,Female,,USA,12000,12/24/2023,mary.johnson@yahoo.com
+C286, Susan Taylor ,male,35,Pakistan,12000,12/25/2023,susan.taylor@yahoo.com
+C287,Mary Johnson,Female,30,USA,9000,12/26/2023,mary.johnson@yahoo.com
+C288, Peter Okeke ,M,20,Canada,9000,12/27/2023,peter.okeke@yahoo.com
+C289, Mary Johnson ,F,30,USA,5000,12/28/2023,mary.johnson@gmail
+C290,Emily Stone,M,40,Canada,5000,12/29/2023,emily.stone@gmail.com
+C291,James Wilson,Male,40,USA,7000,12/30/2023,james.wilson@gmail
+C292, Anna White ,M,25,UK,,12/31/2023, 
+C293, Ali Khan ,female,25,USA,12000,1/1/2024,ali.khan@gmail
+C294,David Smith,M,30,UK,,1/2/2024,david.smith@hotmail.com
+C295,Emily Stone,Female,,Nigeria,9000,1/3/2024,emily.stone@yahoo.com
+C296,Ali Khan,Female,30,India,7000,1/4/2024,ali.khan@yahoo.com
+C297,Peter Okeke,M,30,India,,1/5/2024,peter.okeke@yahoo.com
+C298,James Wilson,F,20,India,,1/6/2024, 
+C299,Chris Evans,female,35,USA,9000,1/7/2024,chris.evans@gmail
+C300,Susan Taylor,M,,Nigeria,5000,1/8/2024, 
+C301, Michael Scott ,Female,35,India,9000,1/9/2024,michael.scott@gmail
+C302,Sara Ibrahim,M,35,UK,12000,1/10/2024,sara.ibrahim@gmail
+C303,Chris Evans,F,40,Pakistan,12000,1/11/2024,chris.evans@gmail.com
+C304,Susan Taylor,male,thirty,Pakistan,,1/12/2024,susan.taylor@gmail
+C305,Linda Brown,male,thirty,Pakistan,9000,1/13/2024,linda.brown@gmail.com
+C306,James Wilson,female,25,Canada,9000,1/14/2024,james.wilson@gmail.com
+C307, Grace Musa ,Male,30,Pakistan,5000,1/15/2024, 
+C308,Joy Williams,male,40,India,5000,1/16/2024,joy.williams@gmail
+C309,Linda Brown,Male,40,India,5000,1/17/2024,linda.brown@hotmail.com
+C310,Daniel Craig,F,,USA,9000,1/18/2024, 
+C311,Peter Okeke,M,,Nigeria,9000,1/19/2024,peter.okeke@hotmail.com
+C312,Emily Stone,Male,thirty,UK,7000,1/20/2024,emily.stone@yahoo.com
+C313,Joy Williams,female,,Pakistan,9000,1/21/2024,joy.williams@hotmail.com
+C314,Ali Khan,F,25,Pakistan,5000,1/22/2024,ali.khan@gmail.com
+C315, Sara Ibrahim ,Female,,UK,5000,1/23/2024,sara.ibrahim@gmail
+C316,Linda Brown,Female,35,India,,1/24/2024,linda.brown@hotmail.com
+C317, Chris Evans ,M,35,Pakistan,12000,1/25/2024,chris.evans@gmail.com
+C318, Emily Stone ,F,30,Pakistan,9000,1/26/2024,emily.stone@gmail
+C319,Joy Williams,female,thirty,Pakistan,7000,1/27/2024,joy.williams@gmail.com
+C320,David Smith,M,30,Canada,9000,1/28/2024,david.smith@hotmail.com
+C321,   ,female,,India,9000,1/29/2024,unknown@gmail.com
+C322, Daniel Craig ,M,20,Nigeria,12000,1/30/2024,daniel.craig@yahoo.com
+C323,Anna White,Female,40,Nigeria,,1/31/2024,anna.white@gmail
+C324,Michael Scott,female,thirty,USA,,2/1/2024,michael.scott@gmail.com
+C325,John Adewale,M,35,Canada,,2/2/2024,john.adewale@gmail.com
+C326, Linda Brown ,female,30,UK,,2/3/2024,linda.brown@yahoo.com
+C327,Anna White,male,35,Canada,,2/4/2024,anna.white@yahoo.com
+C328,Linda Brown,M,40,UK,12000,2/5/2024,linda.brown@hotmail.com
+C329, Linda Brown ,M,40,India,5000,2/6/2024,linda.brown@yahoo.com
+C330,Joy Williams,Female,25,Canada,,2/7/2024,joy.williams@gmail
+C331,Daniel Craig,M,35,UK,,2/8/2024,daniel.craig@gmail.com
+C332,Susan Taylor,F,25,UK,5000,2/9/2024,susan.taylor@hotmail.com
+C333,Susan Taylor,female,thirty,Nigeria,9000,2/10/2024,susan.taylor@gmail
+C334,Joy Williams,Male,20,Canada,12000,2/11/2024,joy.williams@yahoo.com
+C335,Sara Ibrahim,Male,,Nigeria,5000,2/12/2024,sara.ibrahim@gmail.com
+C336,Daniel Craig,F,thirty,USA,9000,2/13/2024,daniel.craig@gmail
+C337, Susan Taylor ,Male,20,Pakistan,,2/14/2024,susan.taylor@hotmail.com
+C338, Anna White ,Male,thirty,India,12000,2/15/2024,anna.white@yahoo.com
+C339,John Adewale,Male,35,India,9000,2/16/2024,john.adewale@hotmail.com
+C340,Joy Williams,Male,20,Nigeria,9000,2/17/2024, 
+C341,Peter Okeke,female,35,UK,12000,2/18/2024,peter.okeke@yahoo.com
+C342,Peter Okeke,male,25,UK,7000,2/19/2024,peter.okeke@hotmail.com
+C343,Susan Taylor,M,thirty,Pakistan,9000,2/20/2024,susan.taylor@yahoo.com
+C344,Michael Scott,female,,Pakistan,12000,2/21/2024,michael.scott@hotmail.com
+C345,Anna White,Male,25,India,7000,2/22/2024,anna.white@yahoo.com
+C346,Peter Okeke,male,40,UK,9000,2/23/2024,peter.okeke@gmail.com
+C347,Daniel Craig,F,40,Canada,12000,2/24/2024,daniel.craig@hotmail.com
+C348,Susan Taylor,male,thirty,UK,7000,2/25/2024,susan.taylor@gmail
+C349,Michael Scott,female,thirty,Canada,12000,2/26/2024,michael.scott@hotmail.com
+C350, Susan Taylor ,female,40,UK,7000,2/27/2024,susan.taylor@gmail
+C351, Daniel Craig ,Female,thirty,UK,5000,2/28/2024,daniel.craig@gmail.com
+C352, Ali Khan ,female,35,Pakistan,5000,2/29/2024,ali.khan@gmail.com
+C353, Anna White ,F,40,Nigeria,9000,3/1/2024,anna.white@hotmail.com
+C354,Michael Scott,Male,,Nigeria,5000,3/2/2024,michael.scott@yahoo.com
+C355,Anna White,F,25,India,12000,3/3/2024,anna.white@gmail.com
+C356,Peter Okeke,Male,thirty,Nigeria,,3/4/2024,peter.okeke@gmail.com
+C357,Daniel Craig,male,20,India,5000,3/5/2024,daniel.craig@gmail
+C358,James Wilson,Female,35,USA,12000,3/6/2024,james.wilson@gmail.com
+C359,Sara Ibrahim,male,thirty,UK,9000,3/7/2024,sara.ibrahim@gmail
+C360,Daniel Craig,Male,30,USA,,3/8/2024,daniel.craig@gmail
+C361,Peter Okeke,male,40,UK,9000,3/9/2024,peter.okeke@gmail
+C362,James Wilson,male,thirty,Nigeria,12000,3/10/2024,james.wilson@gmail.com
+C363, Sara Ibrahim ,F,20,Pakistan,9000,3/11/2024,sara.ibrahim@yahoo.com
+C364, James Wilson ,male,30,UK,5000,3/12/2024,james.wilson@yahoo.com
+C365, Chris Evans ,female,35,Pakistan,12000,3/13/2024,chris.evans@gmail
+C366,Peter Okeke,Female,25,India,12000,3/14/2024,peter.okeke@gmail.com
+C367,Ahmed Bello,F,35,Nigeria,7000,3/15/2024,ahmed.bello@yahoo.com
+C368,Susan Taylor,Female,40,Pakistan,12000,3/16/2024,susan.taylor@gmail.com
+C369,Emily Stone,Male,35,India,9000,3/17/2024,emily.stone@hotmail.com
+C370, ,M,20,USA,12000,3/18/2024,unknown@gmail.com
+C371,Chris Evans,Male,25,UK,7000,3/19/2024,chris.evans@gmail.com
+C372,Grace Musa,female,30,UK,,3/20/2024,grace.musa@yahoo.com
+C373,Linda Brown,M,,India,5000,3/21/2024,linda.brown@yahoo.com
+C374, Mary Johnson ,female,25,Nigeria,9000,3/22/2024,mary.johnson@gmail.com
+C375,Ali Khan,female,20,UK,,3/23/2024,ali.khan@gmail.com
+C376, Peter Okeke ,F,35,Canada,12000,3/24/2024,peter.okeke@hotmail.com
+C377,Michael Scott,M,35,Canada,,3/25/2024,michael.scott@gmail.com
+C378,David Smith,male,25,USA,,3/26/2024,david.smith@yahoo.com
+C379,   ,Male,20,Canada,5000,3/27/2024,unknown@hotmail.com
+C380,Daniel Craig,F,35,UK,12000,3/28/2024, 
+C381,Joy Williams,male,,UK,5000,3/29/2024,joy.williams@hotmail.com
+C382,Chris Evans,Female,thirty,Nigeria,5000,3/30/2024,chris.evans@gmail.com
+C383, Ali Khan ,male,30,Pakistan,7000,3/31/2024,ali.khan@gmail.com
+C384, Ali Khan ,Female,,USA,9000,4/1/2024,ali.khan@hotmail.com
+C385,Sara Ibrahim,female,thirty,Nigeria,,4/2/2024, 
+C386, Anna White ,male,25,Nigeria,12000,4/3/2024,anna.white@yahoo.com
+C387,John Adewale,Female,25,Canada,9000,4/4/2024,john.adewale@yahoo.com
+C388,Joy Williams,Female,thirty,USA,5000,4/5/2024,joy.williams@yahoo.com
+C389, Susan Taylor ,Female,thirty,India,7000,4/6/2024,susan.taylor@hotmail.com
+C390, Linda Brown ,male,30,Canada,5000,4/7/2024,linda.brown@gmail.com
+C391,Sara Ibrahim,female,,India,7000,4/8/2024,sara.ibrahim@yahoo.com
+C392,James Wilson,Male,20,Nigeria,5000,4/9/2024,james.wilson@hotmail.com
+C393,Michael Scott,F,25,India,12000,4/10/2024,michael.scott@hotmail.com
+C394,Emily Stone,male,30,USA,9000,4/11/2024,emily.stone@hotmail.com
+C395,Michael Scott,male,30,Nigeria,12000,4/12/2024,michael.scott@gmail
+C396,John Adewale,M,thirty,USA,5000,4/13/2024,john.adewale@hotmail.com
+C397, Chris Evans ,male,,Nigeria,7000,4/14/2024,chris.evans@hotmail.com
+C398,Emily Stone,M,25,Pakistan,12000,4/15/2024,emily.stone@hotmail.com
+C399,Daniel Craig,female,35,Pakistan,9000,4/16/2024, 
+C400, Grace Musa ,Female,25,Nigeria,7000,4/17/2024,grace.musa@hotmail.com
+C401,Sara Ibrahim,male,25,Nigeria,5000,4/18/2024,sara.ibrahim@gmail.com
+C402,Daniel Craig,Female,thirty,Pakistan,7000,4/19/2024,daniel.craig@yahoo.com
+C403,Sara Ibrahim,Male,,Nigeria,,4/20/2024,sara.ibrahim@hotmail.com
+C404, Mary Johnson ,Female,thirty,Nigeria,12000,4/21/2024,mary.johnson@hotmail.com
+C405, Linda Brown ,Male,,Nigeria,,4/22/2024,linda.brown@yahoo.com
+C406,Susan Taylor,male,thirty,Nigeria,12000,4/23/2024,susan.taylor@hotmail.com
+C407,Sara Ibrahim,Male,35,UK,9000,4/24/2024,sara.ibrahim@yahoo.com
+C408,Joy Williams,Female,,UK,9000,4/25/2024,joy.williams@yahoo.com
+C409,Sara Ibrahim,Female,35,Nigeria,9000,4/26/2024,sara.ibrahim@yahoo.com
+C410,Ahmed Bello,male,20,Canada,9000,4/27/2024,ahmed.bello@gmail.com
+C411, ,Male,thirty,Nigeria,,4/28/2024,unknown@hotmail.com
+C412,Linda Brown,F,25,Nigeria,7000,4/29/2024,linda.brown@gmail.com
+C413,John Adewale,M,thirty,Canada,7000,4/30/2024,john.adewale@hotmail.com
+C414,Daniel Craig,Female,35,Nigeria,9000,5/1/2024, 
+C415,Susan Taylor,Male,20,UK,7000,5/2/2024,susan.taylor@hotmail.com
+C416,James Wilson,male,25,India,,5/3/2024,james.wilson@hotmail.com
+C417, Ali Khan ,Female,,Nigeria,9000,5/4/2024,ali.khan@gmail.com
+C418, Joy Williams ,female,,India,,5/5/2024,joy.williams@gmail.com
+C419,Peter Okeke,male,thirty,UK,7000,5/6/2024,peter.okeke@gmail.com
+C420,Chris Evans,M,40,UK,12000,5/7/2024,chris.evans@yahoo.com
+C421,Chris Evans,F,25,UK,12000,5/8/2024,chris.evans@gmail.com
+C422,Ali Khan,Male,30,USA,,5/9/2024,ali.khan@gmail.com
+C423,John Adewale,Male,,UK,5000,5/10/2024,john.adewale@gmail.com
+C424, ,M,30,Canada,5000,5/11/2024,unknown@yahoo.com
+C425, Michael Scott ,F,35,Pakistan,12000,5/12/2024,michael.scott@gmail.com
+C426,Linda Brown,M,30,USA,,5/13/2024,linda.brown@hotmail.com
+C427,Anna White,female,35,Pakistan,5000,5/14/2024,anna.white@yahoo.com
+C428, James Wilson ,M,thirty,Nigeria,12000,5/15/2024, 
+C429,James Wilson,male,25,UK,9000,5/16/2024,james.wilson@gmail.com
+C430, Michael Scott ,M,35,Canada,5000,5/17/2024,michael.scott@yahoo.com
+C431,Emily Stone,Male,20,Canada,5000,5/18/2024,emily.stone@gmail
+C432, Mary Johnson ,Male,thirty,Canada,9000,5/19/2024,mary.johnson@hotmail.com
+C433,Sara Ibrahim,Female,35,Nigeria,5000,5/20/2024,sara.ibrahim@gmail.com
+C434,Daniel Craig,female,40,Nigeria,9000,5/21/2024,daniel.craig@yahoo.com
+C435,Ahmed Bello,M,,Nigeria,5000,5/22/2024,ahmed.bello@gmail.com
+C436, Mary Johnson ,M,25,Pakistan,7000,5/23/2024,mary.johnson@gmail.com
+C437,Daniel Craig,female,20,Pakistan,7000,5/24/2024,daniel.craig@yahoo.com
+C438,Linda Brown,F,20,UK,12000,5/25/2024,linda.brown@gmail
+C439,Sara Ibrahim,Female,thirty,India,,5/26/2024,sara.ibrahim@yahoo.com
+C440, Anna White ,female,20,Nigeria,7000,5/27/2024,anna.white@gmail
+C441, Chris Evans ,M,thirty,Pakistan,5000,5/28/2024,chris.evans@gmail
+C442, Chris Evans ,Male,20,Nigeria,9000,5/29/2024,chris.evans@yahoo.com
+C443,Peter Okeke,F,,Canada,5000,5/30/2024,peter.okeke@gmail.com
+C444, Susan Taylor ,Female,thirty,Canada,9000,5/31/2024,susan.taylor@yahoo.com
+C445,Chris Evans,Female,thirty,USA,5000,6/1/2024,chris.evans@yahoo.com
+C446,Michael Scott,Female,35,India,5000,6/2/2024,michael.scott@gmail.com
+C447, Sara Ibrahim ,male,thirty,Nigeria,12000,6/3/2024,sara.ibrahim@hotmail.com
+C448,Peter Okeke,female,30,USA,9000,6/4/2024,peter.okeke@hotmail.com
+C449,Ahmed Bello,Female,35,Nigeria,12000,6/5/2024,ahmed.bello@hotmail.com
+C450,James Wilson,male,,USA,7000,6/6/2024,james.wilson@gmail.com
+C451,Susan Taylor,Male,,India,12000,6/7/2024,susan.taylor@hotmail.com
+C452,Mary Johnson,M,30,Canada,9000,6/8/2024,mary.johnson@yahoo.com
+C453, Susan Taylor ,F,25,Pakistan,9000,6/9/2024,susan.taylor@gmail.com
+C454, Peter Okeke ,Male,,Pakistan,12000,6/10/2024,peter.okeke@hotmail.com
+C455,Grace Musa,F,25,Pakistan,9000,6/11/2024,grace.musa@hotmail.com
+C456,Susan Taylor,female,35,India,9000,6/12/2024,susan.taylor@gmail
+C457, Peter Okeke ,male,40,Pakistan,5000,6/13/2024,peter.okeke@gmail.com
+C458,Peter Okeke,male,,Pakistan,7000,6/14/2024,peter.okeke@yahoo.com
+C459,Grace Musa,Female,35,Pakistan,9000,6/15/2024,grace.musa@gmail.com
+C460,Ahmed Bello,male,25,Pakistan,12000,6/16/2024,ahmed.bello@gmail
+C461,John Adewale,F,20,UK,12000,6/17/2024,john.adewale@yahoo.com
+C462,Chris Evans,Female,thirty,USA,5000,6/18/2024,chris.evans@gmail
+C463,James Wilson,Female,35,Nigeria,12000,6/19/2024,james.wilson@hotmail.com
+C464,Daniel Craig,male,25,UK,5000,6/20/2024,daniel.craig@gmail.com
+C465, James Wilson ,male,,UK,12000,6/21/2024, 
+C466, James Wilson ,Male,40,Nigeria,7000,6/22/2024,james.wilson@yahoo.com
+C467,Grace Musa,Female,20,Nigeria,7000,6/23/2024, 
+C468,Mary Johnson,M,40,Pakistan,9000,6/24/2024,mary.johnson@gmail
+C469,Peter Okeke,male,35,India,12000,6/25/2024,peter.okeke@hotmail.com
+C470,Emily Stone,M,thirty,UK,12000,6/26/2024,emily.stone@gmail
+C471, Linda Brown ,Female,25,USA,9000,6/27/2024,linda.brown@gmail
+C472,Mary Johnson,M,,UK,12000,6/28/2024,mary.johnson@gmail.com
+C473,Joy Williams,Male,35,India,,6/29/2024,joy.williams@gmail
+C474,Chris Evans,Female,40,Pakistan,9000,6/30/2024, 
+C475,Joy Williams,male,thirty,Canada,9000,7/1/2024, 
+C476, Ahmed Bello ,female,20,Pakistan,5000,7/2/2024,ahmed.bello@hotmail.com
+C477, Ahmed Bello ,M,25,USA,7000,7/3/2024,ahmed.bello@hotmail.com
+C478,Ahmed Bello,female,25,India,7000,7/4/2024,ahmed.bello@yahoo.com
+C479,Grace Musa,female,thirty,Nigeria,9000,7/5/2024,grace.musa@hotmail.com
+C480,Joy Williams,Female,20,USA,12000,7/6/2024,joy.williams@hotmail.com
+C481,Ali Khan,F,30,USA,5000,7/7/2024,ali.khan@yahoo.com
+C482, ,M,25,India,12000,7/8/2024,unknown@gmail
+C483,Susan Taylor,M,,UK,12000,7/9/2024,susan.taylor@yahoo.com
+C484,Susan Taylor,male,40,USA,9000,7/10/2024,susan.taylor@yahoo.com
+C485, Ahmed Bello ,Male,40,Pakistan,,7/11/2024,ahmed.bello@gmail
+C486, ,F,thirty,USA,5000,7/12/2024,unknown@yahoo.com
+C487,Mary Johnson,Male,,India,7000,7/13/2024,mary.johnson@gmail.com
+C488,Ali Khan,M,40,USA,5000,7/14/2024,ali.khan@gmail.com
+C489,Daniel Craig,female,20,Canada,7000,7/15/2024,daniel.craig@hotmail.com
+C490, Linda Brown ,F,,USA,12000,7/16/2024,linda.brown@hotmail.com
+C491,Linda Brown,male,25,USA,9000,7/17/2024,linda.brown@gmail
+C492,Chris Evans,female,thirty,Nigeria,12000,7/18/2024,chris.evans@gmail
+C493, Ali Khan ,male,25,Pakistan,7000,7/19/2024,ali.khan@gmail
+C494,Joy Williams,F,40,Nigeria,12000,7/20/2024,joy.williams@hotmail.com
+C495,Daniel Craig,male,,USA,7000,7/21/2024,daniel.craig@yahoo.com
+C496,Susan Taylor,female,30,UK,5000,7/22/2024,susan.taylor@gmail
+C497,James Wilson,M,40,USA,7000,7/23/2024,james.wilson@yahoo.com
+C498, Mary Johnson ,male,25,India,,7/24/2024,mary.johnson@yahoo.com
+C499,Emily Stone,M,40,India,9000,7/25/2024,emily.stone@gmail
+C500, John Adewale ,M,35,UK,7000,7/26/2024,john.adewale@yahoo.com
+C501,Daniel Craig,male,thirty,UK,5000,7/27/2024,daniel.craig@gmail.com
+C502,Linda Brown,M,30,India,,7/28/2024,linda.brown@gmail
+C503,Peter Okeke,Male,thirty,USA,,7/29/2024,peter.okeke@hotmail.com
+C504, Michael Scott ,F,20,Canada,12000,7/30/2024,michael.scott@gmail.com
+C505, Ahmed Bello ,F,35,India,12000,7/31/2024, 
+C506,Linda Brown,Male,20,Pakistan,,8/1/2024,linda.brown@yahoo.com
+C507,Ahmed Bello,Female,35,Canada,5000,8/2/2024,ahmed.bello@hotmail.com
+C508,Linda Brown,Female,20,Nigeria,7000,8/3/2024,linda.brown@gmail
+C509,Grace Musa,M,,Canada,9000,8/4/2024, 
+C510, David Smith ,male,35,USA,7000,8/5/2024,david.smith@gmail.com
+C511,Susan Taylor,male,25,Canada,7000,8/6/2024,susan.taylor@hotmail.com
+C512,Michael Scott,F,30,Nigeria,9000,8/7/2024,michael.scott@gmail.com
+C513,John Adewale,F,40,Canada,5000,8/8/2024,john.adewale@hotmail.com
+C514,David Smith,female,40,Pakistan,,8/9/2024,david.smith@hotmail.com
+C515,James Wilson,male,,USA,9000,8/10/2024,james.wilson@hotmail.com
+C516,Chris Evans,Male,thirty,Nigeria,9000,8/11/2024,chris.evans@hotmail.com
+C517,Joy Williams,Male,35,Canada,12000,8/12/2024,joy.williams@gmail
+C518,Ali Khan,male,20,UK,9000,8/13/2024,ali.khan@gmail.com
+C519,Emily Stone,F,20,UK,12000,8/14/2024,emily.stone@hotmail.com
+C520,Anna White,M,thirty,USA,12000,8/15/2024,anna.white@gmail
+C286, Susan Taylor ,male,35,Pakistan,12000,8/16/2024,susan.taylor@yahoo.com
+C416,James Wilson,male,25,India,,8/17/2024,james.wilson@hotmail.com
+C424, ,M,30,Canada,5000,8/18/2024,unknown@yahoo.com
+C111,Mary Johnson,female,thirty,USA,7000,8/19/2024,mary.johnson@hotmail.com
+C119, ,female,35,Pakistan,,8/20/2024,unknown@yahoo.com
+C297,Peter Okeke,M,30,India,,8/21/2024,peter.okeke@yahoo.com
+C336,Daniel Craig,F,thirty,USA,9000,8/22/2024,daniel.craig@gmail
+C380,Daniel Craig,F,35,UK,12000,8/23/2024, 
+C356,Peter Okeke,Male,thirty,Nigeria,,8/24/2024,peter.okeke@gmail.com
+C181,Joy Williams,F,40,Nigeria,12000,8/25/2024,joy.williams@gmail
+C454, Peter Okeke ,Male,,Pakistan,12000,8/26/2024,peter.okeke@hotmail.com
+C447, Sara Ibrahim ,male,thirty,Nigeria,12000,8/27/2024,sara.ibrahim@hotmail.com
+C098,Grace Musa,M,25,USA,,8/28/2024,grace.musa@yahoo.com
+C190, David Smith ,M,40,Canada,12000,8/29/2024,david.smith@yahoo.com
+C031,Daniel Craig,Male,40,Nigeria,,8/30/2024,daniel.craig@yahoo.com
+C011,Michael Scott,female,40,Pakistan,5000,8/31/2024,michael.scott@gmail
+C442, Chris Evans ,Male,20,Nigeria,9000,9/1/2024,chris.evans@yahoo.com
+C510, David Smith ,male,35,USA,7000,9/2/2024,david.smith@gmail.com
+C084, ,Female,thirty,USA,5000,9/3/2024,unknown@hotmail.com
+C068, Peter Okeke ,male,,Canada,12000,9/4/2024,peter.okeke@gmail
